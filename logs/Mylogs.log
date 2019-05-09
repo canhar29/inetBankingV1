@@ -1,0 +1,65 @@
+[INFO ] 2019-05-02 15:09:27.050 [main] BaseClass - Browser opened
+[INFO ] 2019-05-02 15:09:35.657 [main] BaseClass - navigated to url
+[INFO ] 2019-05-02 15:09:37.117 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-02 15:09:37.267 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-02 15:09:44.664 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-02 15:09:44.681 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-02 15:09:45.477 [main] BaseClass - browser closed
+[INFO ] 2019-05-02 15:09:50.030 [main] BaseClass - Browser opened
+[INFO ] 2019-05-02 15:09:56.609 [main] BaseClass - navigated to url
+[INFO ] 2019-05-02 15:10:21.220 [main] TC_AddCustomerTest_003 - add customer test passed
+[INFO ] 2019-05-02 15:10:21.973 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:08:19.178 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:08:29.061 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:08:29.776 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-05 17:08:30.077 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-05 17:08:33.728 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-05 17:08:33.742 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-05 17:08:38.409 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:08:46.624 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:08:54.727 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:09:12.261 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:12:16.860 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:12:22.431 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:12:22.695 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-05 17:12:22.818 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-05 17:12:24.285 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-05 17:12:24.296 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-05 17:12:26.892 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:12:33.968 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:12:38.225 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:12:56.014 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:16:20.410 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:16:24.594 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:16:24.803 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-05 17:16:24.871 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-05 17:16:26.410 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-05 17:16:26.441 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-05 17:16:28.817 [main] BaseClass - browser closed
+[INFO ] 2019-05-05 17:16:35.264 [main] BaseClass - Browser opened
+[INFO ] 2019-05-05 17:16:39.903 [main] BaseClass - navigated to url
+[INFO ] 2019-05-05 17:17:04.195 [main] BaseClass - browser closed
+[INFO ] 2019-05-06 13:23:37.400 [main] BaseClass - Browser opened
+[INFO ] 2019-05-06 13:23:48.960 [main] BaseClass - navigated to url
+[INFO ] 2019-05-06 13:23:49.902 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-06 13:23:50.302 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-06 13:23:54.621 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-06 13:23:54.684 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-06 13:23:59.263 [main] BaseClass - browser closed
+[INFO ] 2019-05-06 13:24:06.898 [main] BaseClass - Browser opened
+[INFO ] 2019-05-06 13:24:12.648 [main] BaseClass - navigated to url
+[INFO ] 2019-05-06 13:24:39.619 [main] BaseClass - browser closed
+[INFO ] 2019-05-08 12:25:41.238 [main] BaseClass - Browser opened
+[INFO ] 2019-05-08 12:25:46.478 [main] BaseClass - navigated to url
+[INFO ] 2019-05-08 12:25:47.613 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-08 12:25:47.906 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-08 12:25:50.244 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-08 12:25:50.299 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-08 12:25:52.578 [main] BaseClass - browser closed
+[INFO ] 2019-05-08 12:41:04.078 [main] BaseClass - Browser opened
+[INFO ] 2019-05-08 12:41:08.832 [main] BaseClass - navigated to url
+[INFO ] 2019-05-08 12:41:09.042 [main] TC_LoginTest_001 - entered username
+[INFO ] 2019-05-08 12:41:09.096 [main] TC_LoginTest_001 - entered password
+[INFO ] 2019-05-08 12:41:11.327 [main] TC_LoginTest_001 - button clicked
+[INFO ] 2019-05-08 12:41:11.338 [main] TC_LoginTest_001 - successfully logged in
+[INFO ] 2019-05-08 12:41:15.343 [main] BaseClass - browser closed
